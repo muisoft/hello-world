@@ -1,2 +1,1 @@
-Assalamualikum
-Warahamtullah
+hello
